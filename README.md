@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm <span style="color:#00ffff;">GlgDev</span></h1>
 
-<!--
-**sogolbrik/sogolbrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://i.pinimg.com/originals/06/b9/ae/06b9aeed1a3b8f1d50ba08f3cd8851c8.gif" alt="Coding Guy Neon" width="400"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Web Developer | PHP Artisan | Laravel Enthusiast</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FB503B?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Livewire-4E1EE1?style=for-the-badge&logo=livewire&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/glgdev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <!-- Tambahkan social media lain jika ingin -->
+</p>
