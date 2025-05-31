@@ -33,8 +33,10 @@
 <p align="center">
   <a href="https://github.com/sogolbrik">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  &nbsp;
   <a href="https://lynk.id/glngbrik" target="_blank">
-    <img src="https://img.shields.io/badge/Lynk.id-glngbrik-4c1?style=for-the-badge&logo=linktree&logoColor=white" alt="Lynk.id"/> </a>
+    <img src="https://img.shields.io/badge/Lynk.id-glngbrik-4c1?style=for-the-badge&logo=linktree&logoColor=white" alt="Lynk.id"/></a>
+  &nbsp;
   <a href="https://instagram.com/glgdev" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   &nbsp;
