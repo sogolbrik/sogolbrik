@@ -31,6 +31,8 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/sogolbrik"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <!-- Tambahkan social media lain jika ingin -->
+  <a href="https://github.com/sogolbrik">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://lynk.id/glngbrik" target="_blank">
+    <img src="https://img.shields.io/badge/Lynk.id-glngbrik-4c1?style=for-the-badge&logo=linktree&logoColor=white" alt="Lynk.id"/> </a>
 </p>
