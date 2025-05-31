@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" alt="Neon Coding Animation" width="400"/>
+</p>
+
+<p align="center">
   <b>Web Developer | PHP Artisan | Laravel Enthusiast</b>
 </p>
 
