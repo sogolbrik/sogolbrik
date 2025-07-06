@@ -51,7 +51,7 @@
   <a href="https://instagram.com/glgdev" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
-  <a href="https://www.tiktok.com/@glgdev70" target="_blank">
+  <a href="https://www.tiktok.com/@glngdev" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
 
   <a href="mailto:gilangsampurno125@gmail.com" target="_blank">
