@@ -2,7 +2,7 @@
 <h3 align="center">Crafting Digital Experiences with Code</h3>
 
 <p align="center">
-   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRiOGZ5aGJtZ2Z3eG5oN3JpN25vY3l5dGt1Y252MjZ1dWl6dGZ3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3qamvKJiOCq3YGOC/giphy.gif" alt="Coding Animation" width="420"/>
+     <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Dark Theme Coding" width="420"/>
 </p>
 
 <p align="center">
