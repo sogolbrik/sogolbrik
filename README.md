@@ -2,7 +2,7 @@
 <h3 align="center">Crafting Digital Experiences with Code</h3>
 
 <p align="center">
-     <img src="https://cdn.dribbble.com/users/1012546/screenshots/6233510/avocode-animation-2019-04-05-01-07-17.gif" alt="Coding Animation" width="400"/>
+     <img src="https://cdn.dribbble.com/users/2674405/screenshots/5955646/programmer-working.gif" alt="Developer Working" width="400"/>
 </p>
 
 <p align="center">
