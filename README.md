@@ -23,6 +23,9 @@
   <img src="https://img.shields.io/badge/Laravel-FB503B?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Livewire-4E1EE1?style=for-the-badge&logo=livewire&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 </p>
 
